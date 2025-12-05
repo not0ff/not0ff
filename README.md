@@ -1,13 +1,24 @@
 # Not0ff
 
-## About me 📃
-- 🔭 I'm a self-taught hobbyist
+```
+       .---.     ,"""""""""""""""""""""".
+      /     \    | Hello from the void  |
+      \.@-@./   _;......................'
+      /`\_/`\ -'
+     //  _  \\
+    | \     )|_
+   /`\_`>  <_/ \
+jgs\__/'---'\__/
+```
 
-- 🔎 Interested in programming and cybersecurity
+## About me 
+- Enjoy learning about technology and programming (•_•)
 
-- 🌐 I like to share some of my projects
+- I like to make cool projects
 
-## Technologies 🖥️
+- Pretty interested in self-hosting
+
+## Technologies I've been using
 - Languages: 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
